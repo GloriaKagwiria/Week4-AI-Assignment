@@ -24,5 +24,5 @@ Schema is like a *blueprint* that defines how data is `stored` and `related in a
 1. Phone number-consists of integers only.
 2. Name-consists of string only.
 3. Photos and videos-can't be certain what kind of data types is contained in side them.
-- Therfore phone number and names haves `fixed schema` and can be organized in a database whereas `photos and videos` have no fixed schema and cannot be easily organized.
+- Therfore phone number and names have `fixed schema` and can be organized in a database whereas `photos and videos` have no fixed schema and cannot be easily organized.
   
