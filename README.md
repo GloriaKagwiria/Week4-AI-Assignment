@@ -21,8 +21,8 @@ Data refers to raw facts that are processed to bring out useful information.
 ##### Explain using a simple example.
 Schema is like a *blueprint* that defines how data is `stored` and `related in a database` based on the *nature* of the given data.
 - Examples
-1. Phone number-consists of integers only.
-2. Name-consists of string only.
-3. Photos and videos-can't be certain what kind of data types is contained in side them.
-- Therfore phone number and names have `fixed schema` and can be organized in a database whereas `photos and videos` have no fixed schema and cannot be easily organized.
+1. Phone number -consists of integers only.
+2. Name -consists of string only.
+3. Photos and videos -can't be certain what kind of data types is contained in side them.
+- Therefore phone number and names have `fixed schema` and can be organized in a database whereas `photos and videos` have no fixed schema and cannot be easily organized.
   
